@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(127, 233, 198);
+}
+  
+
+
+#container {
+    color: #fff;
+    margin: auto;
+    border: 5px solid rgb(126, 128, 128);
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    height: 260px;
+    width: 600px;
+    background-color: #282d31;
+}
+
+#userInput {
+    width: 170px;
+    height: 23px;
+}
+
+#outputText {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
